@@ -1,0 +1,13 @@
+{
+  "version": "0.19.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/nikoksr/proji/releases/download/v0.19.0/proji-Windows-64bit.zip",
+      "bin": ["proji.exe"],
+      "hash": "8eab0bac589871d94421259a374a1be5635f016fdbdf47428031538abe245a29"
+    }
+  },
+  "homepage": "https://github.com/nikoksr/proji",
+  "license": "MIT",
+  "description": "A powerful cross-platform CLI project templating tool."
+}
