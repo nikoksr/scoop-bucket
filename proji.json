@@ -1,12 +1,12 @@
 {
-    "version": "0.19.1",
+    "version": "0.19.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nikoksr/proji/releases/download/v0.19.1/proji-Windows-64bit.zip",
+            "url": "https://github.com/nikoksr/proji/releases/download/v0.19.2/proji-Windows-64bit.zip",
             "bin": [
                 "proji.exe"
             ],
-            "hash": "5f7bd137194398a6f788a3f71f0ab716d80804dd0c8e9e0481b9b96029409355"
+            "hash": "7ab5e2cf5329f69e88b058501ce70577497df73251752fab8fc9c2ace393b545"
         }
     },
     "homepage": "https://github.com/nikoksr/proji",
